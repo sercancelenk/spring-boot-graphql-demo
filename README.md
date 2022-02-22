@@ -1,4 +1,6 @@
-###Spring boot GraphQL Basic Implementation
+Spring boot GraphQL Basic Implementation
+
+![](https://github.com/sercancelenk/spring-boot-graphql-demo/blob/main/graphql_demo.gif)
 
 
 
