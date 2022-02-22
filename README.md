@@ -1,5 +1,7 @@
 ###Spring boot GraphQL Basic Implementation
 
+
+
 - Create Provider
 ```
 @Component
